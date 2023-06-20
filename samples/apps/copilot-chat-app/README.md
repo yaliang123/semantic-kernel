@@ -1,12 +1,14 @@
 # Copilot Chat Sample Application
 
+Edited by Yanzhong Liang
+
 > This sample is for educational purposes only and is not recommended for production deployments.
 
 # About Copilot Chat
 
 This sample allows you to build your own integrated large language model chat copilot.
 This is an enriched intelligence app, with multiple dynamic components including
-command messages, user intent, and memories.
+command messages, user intent, and memories. It is based on client-server model.
 
 The chat prompt and response will evolve as the conversation between the user and the application proceeds.
 This chat experience is orchestrated with Semantic Kernel and a Copilot Chat skill containing numerous
