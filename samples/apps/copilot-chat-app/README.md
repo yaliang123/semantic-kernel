@@ -29,7 +29,7 @@ Before you get started, make sure you have the following requirements in place:
 - [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Node.js](https://nodejs.org/)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install) - After installation, run `yarn --version` in a terminal window to ensure you are running v1.22.19.
-- [Azure OpenAI](https://aka.ms/oai/access) resource or an account with [OpenAI](https://platform.openai.com).
+- [Azure OpenAI](https://aka.ms/oai/access) resource or an account with [OpenAI](https://platform.openai.com) or open AI account.
 - [Visual Studio Code](https://code.visualstudio.com/Download) **(Optional)** 
 
 ## Start the WebApi Backend Server
